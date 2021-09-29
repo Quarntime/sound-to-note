@@ -1,0 +1,17 @@
+body {
+    background-color: lightgray;
+}
+
+h1 {
+    color: white;
+    text-align: center;
+}
+
+p {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+button{
+    padding: 14px 32px;
+    align-self: center;
+}
